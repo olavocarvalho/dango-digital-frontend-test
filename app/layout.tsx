@@ -1,5 +1,4 @@
 import "../styles/globals.css";
-import { Header } from "./Header";
 import { Space_Grotesk, Inter } from "@next/font/google";
 
 const spaceGrotesk = Space_Grotesk({
