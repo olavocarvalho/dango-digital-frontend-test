@@ -1,4 +1,4 @@
-import { Product } from "../../typing"
+import { Product } from "../../../typing"
 
 export enum ProductActionTypes {
   UPDATE_PRODUCT_QUANTITY = 'UPDATE_PRODUCT_QUANTITY',
