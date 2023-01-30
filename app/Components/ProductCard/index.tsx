@@ -56,7 +56,7 @@ export default function ProductCard({
       </div>
       <div className="-mt-4 block">
         <h3
-          className="text-3xl font-serif text-center text-slate-900 border-0"
+          className="text-3xl font-serif text-center text-slate-900 truncate"
           style={{ fontWeight: `${productTitleWeight}` }}
         >
           {product.name}
